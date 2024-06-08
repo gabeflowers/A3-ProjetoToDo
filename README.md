@@ -1,24 +1,9 @@
-# projeto-todo
+Como utilizar
+Online: https://gabeflowers.github.io/ProjetoToDo.github.io/index.html
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+No caso de uso local siga os seguintes passos:
+No terminal instale as dependências utilizando yarn install
+Para rodar o projeto em LocalHost: yarn run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Este projeto foi criado como um trabalho de conclusão da avaliação A3 da Unidade Curricular "Modelos, Métodos e Técnicas da Engenharia de Software". O projeto foi criado com Vite na biblioteca React utilizando de TypeScript em ambiente de desenvolvimento. A trajetória da engenharia foi gerenciada com o uso do Trello para simular o processo ágil de desenvolvimento de software.
